@@ -1,0 +1,10 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/google/uuid v1.0.0 h1:b4Gk+7WdP/d3HZH8EJsZpvV7EtDOgaZLtnaNGIu1adA=
+github.com/google/uuid v1.0.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/pborman/uuid v0.0.0-20180909234540-25cd46ecac86 h1:kX78iVDtH+/sB0tiR3mkEEsO338B2F3OwE6t5d7vQmE=
+github.com/pborman/uuid v0.0.0-20180909234540-25cd46ecac86/go.mod h1:VyrYX9gd7irzKovcSS6BIIEwPRkP2Wm2m9ufcdFSJ34=
+github.com/russolsen/transit v0.0.0-20180705123435-0794b4c4505a h1:yVNJFSzkEG8smsvd9udiQcMJA0MIsFvlG7ba314cu+s=
+github.com/russolsen/transit v0.0.0-20180705123435-0794b4c4505a/go.mod h1:TPq+fcJOdGrkpZpXF4UVmFjYxH0gGqnxdgZ+OzAmvJk=
+github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24 h1:pntxY8Ary0t43dCZ5dqY4YTJCObLY1kIXl0uzMv+7DE=
+github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24/go.mod h1:M+9NzErvs504Cn4c5DxATwIqPbtswREoFCre64PpcG4=
